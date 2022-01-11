@@ -8,7 +8,6 @@
 
 
 - Susunan package dan modul nya akan terlihat seperti di bawah ini
-
 [gambar1](ss/uas0.PNG)
 
 
@@ -154,30 +153,23 @@ while True:
 ```
 
 - Dibawah adalah hasil program ketika dijalankan, dan memasukan perintah untuk Tambah data, dengan input t dikeyboard
-
 [gambar2](ss/uas1.PNG)
 
 
 - Dibawah adalah hasil ketika program dijalankan, dan memasukkan perintah untuk mencari data dengan input c di keyboard, lalu mencetak nya pada program
-
 [gambar3](ss/uas2.PNG)
 
 - Dibawah adalah hasil program ketika dijalankan, dan memasukkan perintah untuk tambah data, dengan input t pada keyboard
-
 [gambar4](ss/uas3.PNG)
 
 - Dibawah adalah hasil ketika program dijalankan, dan memasukkan perintah untuk lihat data, dengan input l pada keyboard, maka akan menampilkan seluruh data yang telah di inputkan sebelumnya
-
 [gambar5](ss/uas4.PNG)
 
 - Dibawah adalah hasil ketika program dijalankan, dan memasukkan perintah untuk hapus data yang telah di input sebelumnya, dengan input perintah h pada keyboard, lalu masukkan nama yang ingin di hapus
-
 [gambar6](ss/uas5.PNG)
 
 -- Dibawah adalah hasil ketika program dijalankan, dam melihat data apakah sudah terhapus atau belum, dengan input l pada keyboard
-
 [gambar7](ss/uas6.PNG)
 
 - Dan dibawah adalah hasil ketika program dijalankan dan input k pada keyboard untuk keluar dari program
-
 [gambar8](ss/uas7.PNG)
